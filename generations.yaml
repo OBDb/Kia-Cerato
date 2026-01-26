@@ -1,3 +1,7 @@
+references:
+  - "https://en.wikipedia.org/wiki/Kia_Cerato"
+  - "https://en.wikipedia.org/wiki/Kia_Forte"
+
 generations:
   - name: "First Generation (LD)"
     start_year: 2003
@@ -16,5 +20,5 @@ generations:
 
   - name: "Fourth Generation (BD)"
     start_year: 2018
-    end_year: null
+    end_year: 2024
     description: "The current Cerato features more mature styling with clean lines, a fastback-inspired profile in the sedan, and sophisticated detailing. Available primarily in sedan and five-door hatchback body styles, with the coupe variant discontinued in most markets. Built on Kia's K2 platform shared with the Ceed, it offers improved driving dynamics, refinement, and safety. Engine options vary by market but typically include efficient 1.5L, 1.6L, and 2.0L four-cylinder units, with performance-oriented GT models featuring a 1.6L turbocharged engine in some regions. Transmission options include manual, conventional automatic, and continuously variable transmissions depending on configuration. The interior represents a major step forward with a more premium design, higher quality materials, and advanced technology including an available 10.25-inch touchscreen infotainment system, digital instrument cluster, and comprehensive connectivity features. Safety technology has advanced significantly with Kia's DriveWise suite including features like autonomous emergency braking, lane keeping assist, and adaptive cruise control. This generation competes directly with established compact cars on quality and features while maintaining Kia's value proposition, positioning the Cerato/Forte as a mainstream rather than budget alternative in the highly competitive compact car segment."
