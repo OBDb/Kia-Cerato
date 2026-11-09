@@ -19,7 +19,27 @@ test_cases:
     CERATO_HAZARD_SW: 80
   response: |-
     778100B62BC056F1324
+    778210050000000AAAA
+- expected_values:
+    CERATO_HAZARD_SW: 80
+  response: |-
+    778100B62BC056F1324
+    778210050400000AAAA
+- expected_values:
+    CERATO_HAZARD_SW: 80
+  response: |-
+    778100B62BC056F1324
     778210050C00000AAAA
+- expected_values:
+    CERATO_HAZARD_SW: 160
+  response: |-
+    778100B62BC056F1324
+    7782100A0000000AAAA
+- expected_values:
+    CERATO_HAZARD_SW: 160
+  response: |-
+    778100B62BC056F1324
+    7782100A0400000AAAA
 - expected_values:
     CERATO_HAZARD_SW: 160
   response: |-
