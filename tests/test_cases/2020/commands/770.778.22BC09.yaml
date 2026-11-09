@@ -11,4 +11,22 @@ test_cases:
     CERATO_HL_LOW: 0
   response: |-
     778100B62BC09340003
+    77821CC00000030AAAA
+- expected_values:
+    CERATO_HL_HIGH: 0
+    CERATO_HL_LOW: 0
+  response: |-
+    778100B62BC09340003
     77821CC0000C000AAAA
+- expected_values:
+    CERATO_HL_HIGH: 0
+    CERATO_HL_LOW: 1
+  response: |-
+    778100B62BC09340003
+    77821CC0000C003AAAA
+- expected_values:
+    CERATO_HL_HIGH: 0
+    CERATO_HL_LOW: 0
+  response: |-
+    778100B62BC09340030
+    778213F2000000CAAAA
