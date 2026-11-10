@@ -3,7 +3,6 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 172
     CERATO_CLUTCH_2_T: 152
-    CERATO_GEAR_CUR: 0
     CERATO_GEAR_NXT: 0
   response: |-
     7E910316201A4FFFFFF
@@ -17,7 +16,6 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 198
     CERATO_CLUTCH_2_T: 186
-    CERATO_GEAR_CUR: 0
     CERATO_GEAR_NXT: 0
   response: |-
     7E910316201A4FFFFFF
@@ -31,7 +29,6 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 174
     CERATO_CLUTCH_2_T: 166
-    CERATO_GEAR_CUR: 0
     CERATO_GEAR_NXT: 0
   response: |-
     7E910316201A4FFFFFF
@@ -45,7 +42,6 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 170
     CERATO_CLUTCH_2_T: 162
-    CERATO_GEAR_CUR: 0
     CERATO_GEAR_NXT: 0
   response: |-
     7E910316201A4FFFFFF
@@ -59,7 +55,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 196
     CERATO_CLUTCH_2_T: 184
-    CERATO_GEAR_CUR: 1
+    CERATO_GEAR_CUR: '1'
     CERATO_GEAR_NXT: 1
   response: |-
     7E910316201A4FFFFFF
@@ -73,7 +69,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 192
     CERATO_CLUTCH_2_T: 192
-    CERATO_GEAR_CUR: 2
+    CERATO_GEAR_CUR: '2'
     CERATO_GEAR_NXT: 2
   response: |-
     7E910316201A4FFFFFF
@@ -87,7 +83,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 124
     CERATO_CLUTCH_2_T: 88
-    CERATO_GEAR_CUR: 2
+    CERATO_GEAR_CUR: '2'
     CERATO_GEAR_NXT: 2
   response: |-
     7E910316201A4FFFFFF
@@ -101,7 +97,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 132
     CERATO_CLUTCH_2_T: 110
-    CERATO_GEAR_CUR: 2
+    CERATO_GEAR_CUR: '2'
     CERATO_GEAR_NXT: 2
   response: |-
     7E910316201A4FFFFFF
@@ -115,7 +111,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 150
     CERATO_CLUTCH_2_T: 132
-    CERATO_GEAR_CUR: 1
+    CERATO_GEAR_CUR: '1'
     CERATO_GEAR_NXT: 1
   response: |-
     7E910316201A4FFFFFF
@@ -129,7 +125,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 156
     CERATO_CLUTCH_2_T: 128
-    CERATO_GEAR_CUR: 2
+    CERATO_GEAR_CUR: '2'
     CERATO_GEAR_NXT: 2
   response: |-
     7E910316201A4FFFFFF
@@ -143,7 +139,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 148
     CERATO_CLUTCH_2_T: 104
-    CERATO_GEAR_CUR: 2
+    CERATO_GEAR_CUR: '2'
     CERATO_GEAR_NXT: 2
   response: |-
     7E910316201A4FFFFFF
@@ -157,7 +153,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 136
     CERATO_CLUTCH_2_T: 134
-    CERATO_GEAR_CUR: 3
+    CERATO_GEAR_CUR: '3'
     CERATO_GEAR_NXT: 3
   response: |-
     7E910316201A4FFFFFF
@@ -171,7 +167,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 146
     CERATO_CLUTCH_2_T: 146
-    CERATO_GEAR_CUR: 3
+    CERATO_GEAR_CUR: '3'
     CERATO_GEAR_NXT: 3
   response: |-
     7E910316201A4FFFFFF
@@ -185,7 +181,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 122
     CERATO_CLUTCH_2_T: 102
-    CERATO_GEAR_CUR: 2
+    CERATO_GEAR_CUR: '2'
     CERATO_GEAR_NXT: 2
   response: |-
     7E910316201A4FFFFFF
@@ -199,7 +195,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 158
     CERATO_CLUTCH_2_T: 156
-    CERATO_GEAR_CUR: 7
+    CERATO_GEAR_CUR: '7'
     CERATO_GEAR_NXT: 7
   response: |-
     7E910316201A4FFFFFF
@@ -213,7 +209,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 130
     CERATO_CLUTCH_2_T: 130
-    CERATO_GEAR_CUR: 3
+    CERATO_GEAR_CUR: '3'
     CERATO_GEAR_NXT: 3
   response: |-
     7E910316201A4FFFFFF
@@ -227,7 +223,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 206
     CERATO_CLUTCH_2_T: 192
-    CERATO_GEAR_CUR: 7
+    CERATO_GEAR_CUR: '7'
     CERATO_GEAR_NXT: 7
   response: |-
     7E910316201A4FFFFFF
@@ -241,7 +237,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 146
     CERATO_CLUTCH_2_T: 104
-    CERATO_GEAR_CUR: 3
+    CERATO_GEAR_CUR: '3'
     CERATO_GEAR_NXT: 3
   response: |-
     7E910316201A4FFFFFF
@@ -255,7 +251,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 152
     CERATO_CLUTCH_2_T: 130
-    CERATO_GEAR_CUR: 5
+    CERATO_GEAR_CUR: '5'
     CERATO_GEAR_NXT: 5
   response: |-
     7E910316201A4FFFFFF
@@ -269,7 +265,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 164
     CERATO_CLUTCH_2_T: 150
-    CERATO_GEAR_CUR: 5
+    CERATO_GEAR_CUR: '5'
     CERATO_GEAR_NXT: 5
   response: |-
     7E910316201A4FFFFFF
@@ -283,7 +279,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 156
     CERATO_CLUTCH_2_T: 172
-    CERATO_GEAR_CUR: 6
+    CERATO_GEAR_CUR: '6'
     CERATO_GEAR_NXT: 6
   response: |-
     7E910316201A4FFFFFF
@@ -297,7 +293,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 198
     CERATO_CLUTCH_2_T: 170
-    CERATO_GEAR_CUR: 6
+    CERATO_GEAR_CUR: '6'
     CERATO_GEAR_NXT: 6
   response: |-
     7E910316201A4FFFFFF
@@ -311,7 +307,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 116
     CERATO_CLUTCH_2_T: 106
-    CERATO_GEAR_CUR: 2
+    CERATO_GEAR_CUR: '2'
     CERATO_GEAR_NXT: 2
   response: |-
     7E910316201A4FFFFFF
@@ -325,7 +321,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 210
     CERATO_CLUTCH_2_T: 190
-    CERATO_GEAR_CUR: 6
+    CERATO_GEAR_CUR: '6'
     CERATO_GEAR_NXT: 6
   response: |-
     7E910316201A4FFFFFF
@@ -339,7 +335,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 116
     CERATO_CLUTCH_2_T: 82
-    CERATO_GEAR_CUR: 4
+    CERATO_GEAR_CUR: '4'
     CERATO_GEAR_NXT: 3
   response: |-
     7E910316201A4FFFFFF
@@ -353,7 +349,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 154
     CERATO_CLUTCH_2_T: 134
-    CERATO_GEAR_CUR: 6
+    CERATO_GEAR_CUR: '6'
     CERATO_GEAR_NXT: 6
   response: |-
     7E910316201A4FFFFFF
@@ -367,7 +363,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 188
     CERATO_CLUTCH_2_T: 176
-    CERATO_GEAR_CUR: 7
+    CERATO_GEAR_CUR: '7'
     CERATO_GEAR_NXT: 7
   response: |-
     7E910316201A4FFFFFF
@@ -381,7 +377,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 190
     CERATO_CLUTCH_2_T: 182
-    CERATO_GEAR_CUR: 7
+    CERATO_GEAR_CUR: '7'
     CERATO_GEAR_NXT: 7
   response: |-
     7E910316201A4FFFFFF
@@ -395,7 +391,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 148
     CERATO_CLUTCH_2_T: 140
-    CERATO_GEAR_CUR: 5
+    CERATO_GEAR_CUR: '5'
     CERATO_GEAR_NXT: 5
   response: |-
     7E910316201A4FFFFFF
@@ -409,7 +405,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 134
     CERATO_CLUTCH_2_T: 126
-    CERATO_GEAR_CUR: 3
+    CERATO_GEAR_CUR: '3'
     CERATO_GEAR_NXT: 3
   response: |-
     7E910316201A4FFFFFF
@@ -423,7 +419,7 @@ test_cases:
 - expected_values:
     CERATO_CLUTCH_1_T: 138
     CERATO_CLUTCH_2_T: 128
-    CERATO_GEAR_CUR: 2
+    CERATO_GEAR_CUR: '2'
     CERATO_GEAR_NXT: 3
   response: |-
     7E910316201A4FFFFFF
