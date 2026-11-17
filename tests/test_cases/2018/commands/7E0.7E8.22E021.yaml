@@ -1,7 +1,7 @@
 command_id: 7E0.7E8.22E021
 test_cases:
 - expected_values:
-    CERATO_TURBO_BOOST: -10
+    CERATO_TURBO_BOOST: 2.34538
     CERATO_WG_DUTY: 0
     CERATO_WG_POSITION: 0
     CERATO_WG_VOLTAGE: 0
