@@ -154,7 +154,7 @@
     {"id": "CERATO_RL_WHEEL_VSS", "path": "Tires", "fmt": {"bix": 104, "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"},
     {"id": "CERATO_RR_WHEEL_VSS", "path": "Tires", "fmt": {"bix": 112, "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]},
-{ "hdr": "7D4", "rax": "7DC", "cmd": {"21": "01"}, "freq": 0.25, "dbgfilter": { "to": 2013, "years": [2015], "from": 2018 },
+{ "hdr": "7D4", "rax": "7DC", "cmd": {"21": "01"}, "freq": 0.25, "filter": { "to": 2018, "from": 2025 }, "dbgfilter": { "to": 2013, "years": [2015], "from": 2018 },
   "signals": [
     {"id": "CERATO_STEER_ANGLE_V2", "path": "Control", "fmt": {"bix": 72, "len": 16, "max": 3276, "min": -3276, "div": 10, "sign": true, "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
