@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.22E013
+test_cases:
+- expected_values:
+    CERATO_BRAKE_BOOSTER_P: 0
+  response: |-
+    7E8101762E013000000
+    7E8210000000000EF13
+    7E822000000000000EF
+    7E823130000AAAAAAAA
