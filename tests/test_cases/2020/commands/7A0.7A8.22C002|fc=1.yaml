@@ -1,0 +1,12 @@
+command_id: 7A0.7A8.22C002|fc=1
+test_cases:
+- expected_values:
+    CERATO_TID_1: 0
+    CERATO_TID_2: 0
+    CERATO_TID_3: 0
+    CERATO_TID_4: 0
+  response: |-
+    7A8101762C002FFFF00
+    7A82100000000000000
+    7A82200000000000000
+    7A823000000AAAAAAAA
